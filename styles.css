@@ -7,4 +7,12 @@ table,td{
 }
 .login{
     text-align: center;
+    border:1px solid gray;
+    border-radius: 5px;
+    width:20%;
+    margin-left: 40%;
+    padding: 10px;
+}
+#in{
+    text-align: center;
 }
