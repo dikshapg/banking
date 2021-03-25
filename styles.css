@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color:orange;
+}
+table,td{
+    border: 1px solid red;
+}
+.login{
+    text-align: center;
+}
